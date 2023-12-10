@@ -37,7 +37,7 @@ dependencies:
   google_fonts:
   date_picker_timeline:
   flutter_local_notifications:
-
+  sqflite:
 dev_dependencies:
   flutter_test:
     sdk: flutter
